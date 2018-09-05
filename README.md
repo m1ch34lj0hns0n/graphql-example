@@ -1,2 +1,1 @@
-# graphql-example
-Working with GraphQL
+A simple graphQL example using express & JSON Server.
