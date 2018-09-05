@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "age": 28,
+            "name": "Michael Johnson",
+            "companyId": 1
+        },
+        {
+            "id": 2,
+            "age": 28,
+            "name": "Will Staunton",
+            "companyId": 1
+        },
+        {
+            "id": 3,
+            "age": 28,
+            "name": "Alexandra Scrivener",
+            "companyId": 2
+        }
+    ],
+    "companies": [
+        {
+            "id": 1,
+            "name": "reed.co.uk",
+            "description": "Job board"
+        },
+        {
+            "id": 2,
+            "name": "Suzuki",
+            "description": "Car manufacturer"
+        }
+    ]
+}
